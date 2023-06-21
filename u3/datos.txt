@@ -1,0 +1,4 @@
+Este es un archivo con datos:
+dato1
+dato2
+dato3
